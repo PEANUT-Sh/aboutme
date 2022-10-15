@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    margin: 0;
+}
+.main{
+    width: 60%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+h2{
+    border-left: solid 5px #7db4e6;
+    padding: 5px;
+}
+p{
+    padding-left: 20px;
+}
