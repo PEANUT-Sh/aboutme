@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #404040;
+}
+.main{
+    width: 50em;
+    background-color: white;
+    margin: auto;
+}
+h2{
+    border-left: solid blue 5px;
+}
